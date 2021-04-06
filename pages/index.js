@@ -7,7 +7,7 @@ function HomePage() {
   return (
     <div>
       <EventList items={featuredEvents}/>
-  </div>
+    </div>
   );
 }
 
