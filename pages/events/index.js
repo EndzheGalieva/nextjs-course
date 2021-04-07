@@ -6,7 +6,7 @@ function AllEventsPage() {
 
   return (
     <div>
-      <EventList items={events} />
+      <EventList items={events}/>
     </div>
   );
 }
